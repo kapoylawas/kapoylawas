@@ -32,7 +32,7 @@
 - :computer: I'm currently working on MERN Stack
 - :rocket: Always ready to collaborate for Dev Experiments
 - :man_technologist: Former Project Lead Intern at GirlScript Foundation
-- 👨‍💼work: MAJOO INDONESIA
+- 👨‍💼work remote: MAJOO INDONESIA
 - :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
 
 <h2 align="left">:heart: Let's get connected:</h2>
